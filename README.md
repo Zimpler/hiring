@@ -1,4 +1,4 @@
-![PugglePay](http://pugglepay.com/wp-content/uploads/2012/07/logo1.png)
+![PugglePay](http://pugglepay.com/wp-content/themes/pugglepay/img/logo.png)
 
 # Hiring ruby system developers
 
@@ -8,7 +8,7 @@
  * ruby developers
  * in the cloud
  * not agreeing about which text editor is the best
- * in a startup of five
+ * in a startup of eight
  * in Gothenburg, Sweden
 
 ## We like:
@@ -22,7 +22,7 @@
 
 ## We use:
 
- * Rails on JRuby on JBoss on Ubuntu on AWS
+ * Rails on Ubuntu on AWS
  * cross-domain javascripts
  * EC2+RDS+S3+Route53+ELB+...
  * Fast Fourier Transforms
@@ -31,18 +31,18 @@
 
  * MacBooks
  * a nice office at Chalmers Innovation
- * a cool dashboard
+ * a cool dashboard in Graphite
  * reasonable working hours
- * a salary
+ * fun
 
 ## We research:
 
- * Clojure, Go and Raspberry Pi clusters ;)
+ * Clojure, Elixir and Raspberry Pi clusters ;)
  * algorithms and machine learning
  * big data and databases
  * risk management
 
 Join us now for happiness and prosperity! Send an updated CV along with some code that you are proud of to magnus@pugglepay.com.
 
-![Bli en happy puggle!](http://pugglepay.com/wp-content/uploads/2012/06/saljare.png)
+![Bli en happy puggle!](http://pugglepay.com/wp-content/themes/pugglepay/img/pp_footer.png)
 
